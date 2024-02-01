@@ -60,6 +60,7 @@ function opencareerspage(){
 function openaboutpage(){
     window.location.href="aboutus.html"
 }
+
 function openservicespage(){
     window.location.href="services.html"
- }
+    }
