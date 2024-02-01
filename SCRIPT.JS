@@ -63,4 +63,4 @@ function openaboutpage(){
 
 function openservicespage(){
     window.location.href="services.html"
-    }
+ }
